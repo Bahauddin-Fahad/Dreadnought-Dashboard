@@ -1,0 +1,63 @@
+[
+  {
+    "_id": 1,
+    "name": "Rashmi Tirke",
+    "img": "https://i.ibb.co/WHPGKyh/human1.jpg",
+    "address": "USA",
+    "company": "Zemlak, Daniel and Leannon",
+    "profession": "Desktop Support Technician",
+    "instructor": "Jason Miller",
+    "course": "Future Deep Tech Founders",
+    "enrollment": "27/07/2022",
+    "status": "Completed",
+    "progress": "100"
+  },
+  {
+    "_id": 2,
+    "name": "Rob Neilson",
+    "img": "https://i.ibb.co/Jj5QP6P/human2.jpg",
+    "address": "USA",
+    "company": "Zemlak, Daniel and Leannon",
+    "profession": "Desktop Support Technician",
+    "instructor": "Bailee Cooper",
+    "enrollment": "27/07/2022",
+    "status": "Active",
+    "progress": "56"
+  },
+  {
+    "_id": 3,
+    "name": "Stephanie Liveran ",
+    "img": "https://i.ibb.co/S5nq8J6/human3.jpg",
+    "address": "USA",
+    "company": "Zemlak, Daniel and Leannon",
+    "profession": "Desktop Support Technician",
+    "instructor": "Ragini Malhotra",
+    "enrollment": "27/07/2022",
+    "status": "Active",
+    "progress": "74"
+  },
+  {
+    "_id": 4,
+    "name": "David Raum",
+    "img": "https://i.ibb.co/ysRh83X/human4.jpg",
+    "address": "USA",
+    "company": "Zemlak, Daniel and Leannon",
+    "profession": "Desktop Support Technician",
+    "instructor": "John BradShow",
+    "enrollment": "27/07/2022",
+    "status": "Active",
+    "progress": "25"
+  },
+  {
+    "_id": 5,
+    "name": "Seirra James",
+    "img": "https://i.ibb.co/SxZtx1Z/human5.jpg",
+    "address": "USA",
+    "company": "Zemlak, Daniel and Leannon",
+    "profession": "Desktop Support Technician",
+    "instructor": "Mickie Johanson",
+    "enrollment": "27/07/2022",
+    "status": "Active",
+    "progress": "60"
+  }
+]

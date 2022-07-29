@@ -1,0 +1,43 @@
+[
+  {
+    "_id": 1,
+    "name": "Bailee Cooper",
+    "img": "https://i.ibb.co/WHPGKyh/human1.jpg",
+    "student": "Rob Neilson",
+    "course": "Future Deep Tech Founders",
+    "enrollment": "27/07/2022",
+    "status": "Active"
+  },
+  {
+    "_id": 2,
+    "name": "Jason Miller",
+    "img": "https://i.ibb.co/Jj5QP6P/human2.jpg",
+    "student": "Rashmi Tirke",
+    "enrollment": "27/07/2022",
+    "status": "Completed"
+  },
+  {
+    "_id": 3,
+    "name": "Ragini Malhotra",
+    "img": "https://i.ibb.co/S5nq8J6/human3.jpg",
+    "student": "Stephanie Liveran",
+    "enrollment": "27/07/2022",
+    "status": "Active"
+  },
+  {
+    "_id": 4,
+    "name": "John BradShow",
+    "img": "https://i.ibb.co/ysRh83X/human4.jpg",
+    "student": "David Raum",
+    "enrollment": "27/07/2022",
+    "status": "Active"
+  },
+  {
+    "_id": 5,
+    "name": "Mickie Johanson",
+    "img": "https://i.ibb.co/SxZtx1Z/human5.jpg",
+    "student": "Seirra James",
+    "enrollment": "27/07/2022",
+    "status": "Active"
+  }
+]
